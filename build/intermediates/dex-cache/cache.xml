@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ahetawal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2-e4f4f969250a86449f5068dcfb24ccd957a0dd94.jar" />
+    </item>
+    <item
+        jar="/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/classes-021e648f97d0f3e0ccd26677d390d2dd68877569.jar" />
+    </item>
+    <item
+        jar="/Users/ahetawal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2-abea9ab09621b0c0080d61ba89e292793c6f9715.jar" />
+    </item>
+    <item
+        jar="/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-a1255e6fa87147af5b7cc860bdc05b843c62c785.jar" />
+    </item>
+    <item
+        jar="/Users/ahetawal/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.3.1/4d53b7d6983247af02b8fe7e4228fff555a5e828/firebase-client-jvm-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.3.1-ca5a8c4ba6e14b14b535a4af297996c58604c72b.jar" />
+    </item>
+    <item
+        jar="/Users/ahetawal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2-07e45f6d48ad2c34377b1bac996d5dcea13116e4.jar" />
+    </item>
+    <item
+        jar="/Users/ahetawal/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.3.1/be29b24233711c419ce935aa0a1b12ebc49d1c9a/firebase-client-android-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.3.1-e4070ecb17b62543548bb6b03c9974f8dfdc8498.jar" />
+    </item>
+    <item
+        jar="/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/classes-539c2f811a896818e0f5a326a3889da850bb8edf.jar" />
+    </item>
+    <item
+        jar="/Users/ahetawal/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/tubesock-0.0.11-b09a869437a242e4b8194cbf9e8cf07171218b7e.jar" />
+    </item>
+    <item
+        jar="/Users/ahetawal/personal/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-8f0d6c59ba05ec572c840394a9c99c224dac1475.jar" />
+    </item>
+
+</items>

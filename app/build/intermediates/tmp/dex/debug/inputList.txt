@@ -1,0 +1,11 @@
+/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/classes/debug
+/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-8f0d6c59ba05ec572c840394a9c99c224dac1475.jar
+/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2-07e45f6d48ad2c34377b1bac996d5dcea13116e4.jar
+/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/tubesock-0.0.11-b09a869437a242e4b8194cbf9e8cf07171218b7e.jar
+/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.3.1-e4070ecb17b62543548bb6b03c9974f8dfdc8498.jar
+/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-a1255e6fa87147af5b7cc860bdc05b843c62c785.jar
+/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/classes-539c2f811a896818e0f5a326a3889da850bb8edf.jar
+/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2-abea9ab09621b0c0080d61ba89e292793c6f9715.jar
+/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.3.1-ca5a8c4ba6e14b14b535a4af297996c58604c72b.jar
+/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/classes-021e648f97d0f3e0ccd26677d390d2dd68877569.jar
+/Users/ahetawal/personal/FirebaseAndroidChatExample/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2-e4f4f969250a86449f5068dcfb24ccd957a0dd94.jar
